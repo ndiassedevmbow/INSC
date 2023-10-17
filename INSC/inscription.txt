@@ -1,0 +1,3 @@
+FULLNOM: 11111111111111ff
+EMAIL: ndiassedevmbow@gmail.com
+PASSWORD: $2y$10$CVodH9vsxu5LWwUmyQ4lGuMHgmdtAUcX2O2jY8bXedAXAk9LXSvOW
